@@ -5,6 +5,7 @@
     "home_page_url": "https://blog.strongtownscalgary.ca",
     "feed_url": "https://blog.strongtownscalgary.ca/feed.json",
     "user_comment": "",
+    "icon": "https://blog.strongtownscalgary.ca/media/website/ST_Calgary_Logo_No_Background.png",
     "author": {
         "name": "StrongTownsCalgary"
     },
