@@ -10,6 +10,18 @@
     },
     "items": [
         {
+            "id": "https://blog.strongtownscalgary.ca/test-2.html",
+            "url": "https://blog.strongtownscalgary.ca/test-2.html",
+            "title": "Test 2",
+            "author": {
+                "name": "StrongTownsCalgary"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-04-17T11:46:18-06:00",
+            "date_modified": "2024-04-17T11:46:18-06:00"
+        },
+        {
             "id": "https://blog.strongtownscalgary.ca/test.html",
             "url": "https://blog.strongtownscalgary.ca/test.html",
             "title": "TEST",
