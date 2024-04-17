@@ -11,16 +11,16 @@
     },
     "items": [
         {
-            "id": "https://blog.strongtownscalgary.ca/test-3-gh-pages.html",
-            "url": "https://blog.strongtownscalgary.ca/test-3-gh-pages.html",
-            "title": "Test 3 (gh-pages)",
+            "id": "https://blog.strongtownscalgary.ca/this-is-the-first-post-of-strongtownscalgary-blog.html",
+            "url": "https://blog.strongtownscalgary.ca/this-is-the-first-post-of-strongtownscalgary-blog.html",
+            "title": "This is the first post of StrongTownsCalgary Blog",
             "author": {
                 "name": "StrongTownsCalgary"
             },
             "tags": [
             ],
-            "date_published": "2024-04-17T11:52:07-06:00",
-            "date_modified": "2024-04-17T11:52:07-06:00"
+            "date_published": "2024-04-17T13:49:38-06:00",
+            "date_modified": "2024-04-17T13:49:38-06:00"
         }
     ]
 }
