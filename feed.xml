@@ -3,33 +3,21 @@
     <title>blog.strongtownscalgary</title>
     <link href="https://blog.strongtownscalgary.ca/feed.xml" rel="self" />
     <link href="https://blog.strongtownscalgary.ca" />
-    <updated>2024-04-17T11:46:18-06:00</updated>
+    <updated>2024-04-17T11:52:07-06:00</updated>
     <author>
         <name>StrongTownsCalgary</name>
     </author>
     <id>https://blog.strongtownscalgary.ca</id>
 
     <entry>
-        <title>Test 2</title>
+        <title>Test 3 (gh-pages)</title>
         <author>
             <name>StrongTownsCalgary</name>
         </author>
-        <link href="https://blog.strongtownscalgary.ca/test-2.html"/>
-        <id>https://blog.strongtownscalgary.ca/test-2.html</id>
+        <link href="https://blog.strongtownscalgary.ca/test-3-gh-pages.html"/>
+        <id>https://blog.strongtownscalgary.ca/test-3-gh-pages.html</id>
 
-        <updated>2024-04-17T11:46:18-06:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>TEST</title>
-        <author>
-            <name>StrongTownsCalgary</name>
-        </author>
-        <link href="https://blog.strongtownscalgary.ca/test.html"/>
-        <id>https://blog.strongtownscalgary.ca/test.html</id>
-
-        <updated>2024-04-17T10:42:56-06:00</updated>
+        <updated>2024-04-17T11:52:07-06:00</updated>
             <summary></summary>
         <content></content>
     </entry>
