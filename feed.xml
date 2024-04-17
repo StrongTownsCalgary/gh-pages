@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>blog.strongtownscalgary</title>
+    <link href="https://blog.strongtownscalgary.ca/feed.xml" rel="self" />
+    <link href="https://blog.strongtownscalgary.ca" />
+    <updated>2024-04-17T10:42:56-06:00</updated>
+    <author>
+        <name>StrongTownsCalgary</name>
+    </author>
+    <id>https://blog.strongtownscalgary.ca</id>
+
+    <entry>
+        <title>TEST</title>
+        <author>
+            <name>StrongTownsCalgary</name>
+        </author>
+        <link href="https://blog.strongtownscalgary.ca/test.html"/>
+        <id>https://blog.strongtownscalgary.ca/test.html</id>
+
+        <updated>2024-04-17T10:42:56-06:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>

@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "blog.strongtownscalgary",
+    "description": "",
+    "home_page_url": "https://blog.strongtownscalgary.ca",
+    "feed_url": "https://blog.strongtownscalgary.ca/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "StrongTownsCalgary"
+    },
+    "items": [
+        {
+            "id": "https://blog.strongtownscalgary.ca/test.html",
+            "url": "https://blog.strongtownscalgary.ca/test.html",
+            "title": "TEST",
+            "author": {
+                "name": "StrongTownsCalgary"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-04-17T10:42:56-06:00",
+            "date_modified": "2024-04-17T10:42:56-06:00"
+        }
+    ]
+}
